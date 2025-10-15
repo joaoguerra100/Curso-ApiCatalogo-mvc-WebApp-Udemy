@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\imagens\\consomeapi1.jpg"
     },
     {
+      "Id": "C:\\Sistemas\\Projetos\\dotnet\\CategoriasMvc\\wwwroot\\imagens\\eletronicos.jpg",
+      "PackagePath": "staticwebassets\\imagens\\eletronicos.jpg"
+    },
+    {
       "Id": "C:\\Sistemas\\Projetos\\dotnet\\CategoriasMvc\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

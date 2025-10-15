@@ -9,7 +9,7 @@ public class CategoriaViewModel
     [Required(ErrorMessage = "O nome da categoria é obrigatório")]
     public string? Nome { get; set; }
     
-    [Required]
+    [Required(ErrorMessage = "A Imagen da categoria é obrigatório")]
     [Display(Name = "Imagem")]
     public string? ImagemUrl { get; set; }
 }

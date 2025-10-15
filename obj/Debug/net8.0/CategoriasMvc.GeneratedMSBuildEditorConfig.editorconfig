@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Sistemas\Projetos\dotnet\CategoriasMvc
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Categorias/AtualizarCategoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xBdHVhbGl6YXJDYXRlZ29yaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Categorias/CriarNovaCategoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmlhck5vdmFDYXRlZ29yaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Categorias/DeletarCategoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGFyQ2F0ZWdvcmlhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

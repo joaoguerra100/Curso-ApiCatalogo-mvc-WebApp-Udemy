@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8L3WdRnUmryJzV3ChZxHVO/7XbAlT4Z+cRcfy1AkXb0=",
+  "Hash": "o6iXhS3sm4ZMe1i697CNqcZkj2JJb/TosCJLRY5elPI=",
   "Source": "CategoriasMvc",
   "BasePath": "_content/CategoriasMvc",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\consomeapi1.jpg"
+    },
+    {
+      "Identity": "C:\\Sistemas\\Projetos\\dotnet\\CategoriasMvc\\wwwroot\\imagens\\eletronicos.jpg",
+      "SourceId": "CategoriasMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sistemas\\Projetos\\dotnet\\CategoriasMvc\\wwwroot\\",
+      "BasePath": "_content/CategoriasMvc",
+      "RelativePath": "imagens/eletronicos.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\eletronicos.jpg"
     },
     {
       "Identity": "C:\\Sistemas\\Projetos\\dotnet\\CategoriasMvc\\wwwroot\\js\\site.js",
