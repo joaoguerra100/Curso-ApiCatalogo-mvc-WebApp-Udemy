@@ -1,0 +1,52 @@
+@model CategoriasMvc.Models.ProdutoViewModel
+
+<h3>Detalhes Produto</h3>
+
+<div>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Preco)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Preco)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ImagemUrl)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ImagemUrl)
+        </dd>
+    </dl>
+
+    <div class="row">
+        <div class="from-group cold-md-6" style="padding-top: 10px">
+            @if (string.IsNullOrEmpty(@Model.ImagemUrl))
+            {
+                <img src="~/imagens/noimage1.png" />
+            }
+            else
+            {
+                <img src="@Model.ImagemUrl" />
+            }
+        </div>
+    </div>
+
+    <div class="form-group" style="padding-top: 10px">
+        <a asp-action="Index" class="btn btn-info">Retornar</a>
+    </div>
+
+</div>

@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Sistemas\Projetos\dotnet\CategoriasMvc
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Categorias/AtualizarCategoria.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xBdHVhbGl6YXJDYXRlZ29yaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,8 +42,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Produtos/AtualizarProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQXR1YWxpemFyUHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Produtos/CriarNovoProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JpYXJOb3ZvUHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Produtos/DeletarProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRhclByb2R1dG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Produtos/DetalhesProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWxoZXNQcm9kdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Sistemas/Projetos/dotnet/CategoriasMvc/Views/Shared/_ValidationScriptsPartial.cshtml]

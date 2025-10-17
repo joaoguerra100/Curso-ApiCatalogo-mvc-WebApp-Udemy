@@ -1,3 +1,4 @@
+using System.Net.Http.Headers;
 using CategoriasMvc.Services;
 using CategoriasMvc.Services.Interface;
 
@@ -11,7 +12,21 @@ builder.Services.AddHttpClient("CategoriasApi", c =>
     c.BaseAddress = new Uri(builder.Configuration["ServiceUri:CategoriasApi"]);
 });
 
+builder.Services.AddHttpClient("AutenticaApi", c =>
+{
+    c.BaseAddress = new Uri(builder.Configuration["ServiceUri:AutenticaApi"]);
+    c.DefaultRequestHeaders.Accept.Clear();
+    c.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+});
+
+builder.Services.AddHttpClient("ProdutosApi", c =>
+{
+    c.BaseAddress = new Uri(builder.Configuration["ServiceUri:ProdutosApi"]);
+});
+
 builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+builder.Services.AddScoped<IProdutoService, ProdutoService>();
+builder.Services.AddScoped<IAutenticacao, Autenticacao>();
 
 var app = builder.Build();
 

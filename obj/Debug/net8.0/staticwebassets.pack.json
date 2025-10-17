@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Sistemas\\Projetos\\dotnet\\CategoriasMvc\\wwwroot\\imagens\\boneca1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\boneca1.jpg"
+    },
+    {
       "Id": "C:\\Sistemas\\Projetos\\dotnet\\CategoriasMvc\\wwwroot\\imagens\\consomeapi1.jpg",
       "PackagePath": "staticwebassets\\imagens\\consomeapi1.jpg"
     },
